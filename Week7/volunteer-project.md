@@ -7,8 +7,8 @@ to record volunteer hours using a structured interface and stores records
 locally in a CSV file so that entries persist between runs.
 
 ## Screenshots
-![Program Menu](screenshot(267).png)
-![Sample Output](screenshot(268).png)
+![Program Menu](Screenshot(267).png)
+![Sample Output](Screenshot(268).png)
 
 ## GitHub Repository
 View the source code here:  
