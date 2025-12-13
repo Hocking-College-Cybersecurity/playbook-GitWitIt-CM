@@ -11,8 +11,7 @@ locally in a CSV file so that entries persist between runs.
 ![Sample Output](Screenshot%20(268).png)
 
 ## GitHub Repository
-View the source code here:  
-https://github.com/Hocking-College-Cybersecurity/playbook-GitWitIt-CM/tree/main
+[View Source Code](volunteer_hours_logger.py)
 
 ## Skills Learned
 This project reinforced Python fundamentals including input validation,
