@@ -5,7 +5,7 @@ Playbook Setup for CYBR-2101
 
 ## CYBR-2101 Final Project – Volunteer Hours Logger
 
-🔗 [View Portfolio Page](volunteer-project.md)
+🔗 [View Portfolio Page](Week7/volunteer-project.md)
 
 A Python-based service-learning project that tracks volunteer hours using
 local CSV storage. This project demonstrates Python fundamentals including
